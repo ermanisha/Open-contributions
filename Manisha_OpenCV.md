@@ -1,4 +1,4 @@
-I have a good proficiency in *python* language and Datascience basics.
+I have a good proficiency in ***python*** language and  ***Datascience basics***.
 
 ***Python:***
 - Datatypes
@@ -37,6 +37,9 @@ And exploring many more everyday through web and MOOC.
  I have searched the web to get to know more about OpenCV  and this are things that I got know.
 
  1.OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+ 
  2. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
+ 
  3. When it integrated with various libraries, such as Numpy, python is capable of processing the OpenCV array structure for analysis. 
+ 
  4. To Identify image pattern and its various features we use vector space and perform mathematical operations on these features.
